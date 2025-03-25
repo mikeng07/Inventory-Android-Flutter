@@ -1,6 +1,31 @@
-# flutterdemoapp
 
-A new Flutter application.
+# Inventory Tracker App
+
+## Overview
+This Android application is an inventory management system developed using Flutter. It allows users to add, edit, and delete inventory items, providing a simple and efficient way to track stock.
+
+## Features
+- Add new inventory items
+- Edit existing item details
+- Delete items from inventory
+- View list of all inventory items
+
+## Technical Details
+- Framework: Flutter
+- Language: Dart
+- Platform: Android
+
+## Key Components
+- Item model to represent inventory items
+- CRUD operations for inventory management
+- User-friendly interface for easy item manipulation
+
+## Skills Demonstrated
+- Mobile app development with Flutter
+- State management in Flutter
+- UI/UX design for mobile applications
+- CRUD operations implementation
+
 
 ## Getting Started
 
